@@ -1,2 +1,2 @@
 # tic-tac-toe
-Python tic-tac-toe in Jupyter notebook
+Python tic-tac-toe
