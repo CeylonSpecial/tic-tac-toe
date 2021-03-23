@@ -1,2 +1,2 @@
 # tic-tac-toe
-Command line tic-tac-toe
+Jupyter notebook tic-tac-toe
